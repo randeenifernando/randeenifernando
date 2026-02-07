@@ -1,7 +1,36 @@
-<h1>Hi, I'm Randeeni! <br/>
-<a href="https://github.com/randeenifernando">Programmer</a> | 
-<a href="https://www.linkedin.com/in/randeenifernando/">Digital Arts & Technology Student</a> | 
-<a href="https://www.behance.net/randeenfernand">Designer & Creative</a></h1>
+<h1>Hi, I'm Ann Randeeni Fernando!</h1>
+
+<h2><a href="https://www.linkedin.com/in/randeenifernando/">Digital Arts & Technology Student</a></h2>
+<h2><a href="https://github.com/randeenifernando"><b>AI and Technology Enthusiast</b></a></h2>
+<h2><a href="https://www.behance.net/randeenfernand">Designer & Creative</a></h2>
+
+<h2>🎯 My Aim</h2>
+<p>
+I aim to create human-centered, ethical AI solutions that bridge creativity, data, and digital transformation. I believe AI should be used responsibly as a tool for progress, helping clients and organizations achieve meaningful impact rather than just following trends. 
+</p>
+
+<h2>💬 About Me</h2>
+<p>
+I am a motivated second-year student pursuing a Bachelor of Arts in Digital Arts and Technology at the University of Galway, currently achieving First Class Honours. I am passionate about leveraging technology and creativity to deliver innovative solutions that connect strategy, data, and digital transformation. I' currently a Global Student Ambassador representing the international student community at my university. 
+</p>
+<p>
+Outside of academics, I enjoy <b>photography</b>, <b>traveling</b>, and exploring creative digital projects. I am a <b>Global Student Ambassador</b> at the University of Galway, supporting international students and representing the university in public communications. I also participate in <b>CreateHER – Ideas Lab</b>, a female-focused innovation, creativity, and leadership program, which has strengthened my confidence, leadership skills, and professional awareness.
+</p>
+
+<h2>📚 What I Study</h2>
+<p>
+I study Digital Arts and Technology at the University of Galway. My modules cover programming (Python, Java), web development, database systems, information technology, digital culture, and media studies. I have developed a growing interest in artificial intelligence and its ethical application within technology ecosystems, seeing AI as a tool to enhance human efficiency and decision-making. 
+
+2024 - Present:	Bachelor of Arts in Digital Arts and Technology, University of Galway
+                       	First year result: 1.1 (First Class Honours)
+
+2023 - 2024:	Diploma in Information Technology, Skills Education Group - UK 
+Final Grade: Distinction
+Final Project: Prepared a software solution using C# and SQL Server, featuring login and 			registration forms with a connected database and a functional user interface.
+
+
+
+</p>
 
 <h2>👩‍💻 Projects & Work Experience</h2>
 
